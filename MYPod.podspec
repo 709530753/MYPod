@@ -53,7 +53,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "myxc" => "70953073@qq.com" }
+  s.author             = { "myxc" => "myxc15@yeah.net" }
   # Or just: s.author    = "myxc"
   # s.authors            = { "myxc" => "70953073@qq.com" }
   # s.social_media_url   = "http://twitter.com/myxc"
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/709530753/MYPod.git", :commit => "4a68ac4", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/709530753/MYPod.git", :commit => "62d91cc", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
