@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "PodDemo"
+  s.name         = "MYPod"
   s.version      = "0.0.1"
   s.summary      = "哈哈啊哈哈."
 
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 			😁啊啊哈哈哈哈哈啊哈哈啊哈哈哈哈哈
                    DESC
 
-  s.homepage     = "https://github.com/709530753/PodDemo"
+  s.homepage     = "https://github.com/709530753/MYPod"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/709530753/PodDemo.git", :commit => "4a68ac4", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/709530753/MYPod.git", :commit => "4a68ac4", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
